@@ -1,0 +1,240 @@
+.address-section-top {
+    font-size: 12px;
+}
+
+.affix-navbar-mobile {
+    margin: -1px 0 0;
+    z-index: 100;
+    width: 100%
+}
+
+.list-group-item:hover, .sidebar-nav .navbar li a:hover, a:focus, a:hover {
+    color: #red
+}
+
+.list-group-item, ul {
+    text-transform: uppercase
+}
+
+.list-group-item, .navbar-default, .navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color: transparent
+}
+
+address, p {
+    line-height: 200%
+}
+
+@media (min-width: 768px) {
+    #midCol.affix-top {
+        position: fixed;
+        width: 265px;
+        margin-right: 10px
+    }
+
+    #midCol.affix {
+        position: static;
+        width: 100%
+    }
+
+    body {
+        padding-top: 90px;
+        padding-bottom: 40px;
+        font-family: 'Open Sans', sans-serif;
+        background-color: white;
+        font-weight: 400;
+        font-size: 12px;
+        text-transform: uppercase;
+        color: #000;
+        min-height: 100vh
+    }
+
+    ul li {
+        border-top-style: solid;
+        border-top-width: 1px;
+        border-top-color: #000;
+        padding: 10px 20px;
+        font-size: 14px
+    }
+}
+
+@media (max-width: 767px) {
+    a.list-group-item, body, ul li {
+        font-size: 12px
+    }
+
+    body {
+        padding-top: 0;
+        padding-bottom: 50px;
+        font-family: 'Open Sans', sans-serif;
+        background-color: white;
+        font-weight: 400;
+        text-transform: uppercase;
+        color: #000;
+        min-height: 100vh
+    }
+
+    ul li {
+        border-top-style: solid;
+        border-top-width: 1px;
+        border-top-color: #000;
+        padding: 10px
+    }
+
+    .navbar-fixed-top {
+        position: relative;
+        top: auto
+    }
+
+    .navbar-collapse {
+        max-height: none
+    }
+
+    .affix, .affix-top {
+        position: fixed
+    }
+}
+
+.address-section, .address-section-top {
+    font-size: 10px;
+    text-align: right;
+    text-justify: inter-word
+}
+
+.address-section {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-weight: 500
+}
+
+.address-section-top {
+    font-weight: 500;
+    margin: 15px 0 0
+}
+
+.navbar-nav > li > a {
+    padding-top: 10px;
+    padding-bottom: 10px
+}
+
+.navbar-brand {
+    padding: 10px 15px
+}
+
+.navbar-fixed-bottom .navbar-collapse, .navbar-fixed-top .navbar-collapse {
+    max-height: 100%
+}
+
+
+ul {
+    list-style-type: none;
+    font-weight: 500;
+    font-size: 11px;
+    padding: 0
+        }
+
+.navbar-default {
+    background-color: transparent
+}
+
+a {
+    text-decoration: none;
+    color: #000
+}
+
+.list-group-item {
+    font-family: 'Open Sans', sans-serif;
+    color: #000;
+    font-weight: 400;
+    background-color: transparent;
+    padding: 5px 20px 5px 0;
+    font-size: 14px
+}
+
+h5, p {
+    padding: 0
+}
+
+h1, h2, h3, h4, h5 {
+    font-size: 12px
+}
+
+a.list-group-item:focus, a.list-group-item:hover {
+    background-color: transparent;
+    color: #fff
+}
+
+h5 {
+    margin: 0
+}
+
+img {
+    vertical-align: baseline
+}
+
+
+.background-color {
+    background-color: white
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #000
+}
+
+
+.small-address-section {
+    font-size: 8px;
+    margin: 0 15px
+}
+
+.main-page-text {
+    margin: 20px
+}
+
+p {
+    text-align: justify;
+    margin: 0
+}
+
+.no-padding-column {
+    padding: 2px;
+    margin-top: 5px
+}
+
+.itemName {
+    margin: 30px 0 0
+}
+
+.from-top-margin {
+    margin-top: -70px
+}
+
+.trade-mark {
+    margin: 10px 0
+}
+
+.affix-navbar-mobile {
+    margin: -1px 0 0;
+    z-index: 100;
+    width: 100%
+}
+
+.mobile-menu-margin {
+    margin: 50px 0 0
+}
+
+.first-list-item, .list-item-menu {
+    border-top-color: transparent
+}
+
+.content-margin {
+    margin-top: -70px
+}
+
+.menu-z {
+    z-index: 50;
+    width: 100%
+}
+
+.header-margin {
+    margin: 30px 0
+}
